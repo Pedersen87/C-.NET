@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Inventory>
+  <Item>
+    <Name>Master of puppets</Name>
+    <Count>100</Count>
+    <Price>169</Price>
+    <Comment>Klassiker</Comment>
+    <Artist>Metallica</Artist>
+    <Publisher>Warner</Publisher>
+    <Genre>metal</Genre>
+    <Year>1986</Year>
+    <ProductID>1</ProductID>
+  </Item>
+</Inventory>

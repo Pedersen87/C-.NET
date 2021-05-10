@@ -1,0 +1,3 @@
+1,Megadeth - Rust in peace,199,135,Vinyl
+2,Heroes of might and magic 3,99,75,Spel - PC
+3,Abba,250,1000,DVD

@@ -1,0 +1,9 @@
+666,Slayer,66,6,666,Metal
+667,Morbid Angel,66,6,666,Metal
+668,Led Zeppelin,55,5,555,Hårdrock
+669,Smiff n Wessun,42,420,Hiphop
+345,Metallica,666,66,Metal
+347,Metallica,666,0,Metal
+987,iuyiu,87,86,iuo
+134,Mastodon,199,1000,Metal
+54,ytfty,789,987,rytr

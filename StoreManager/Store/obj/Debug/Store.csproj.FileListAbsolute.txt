@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\Store\bin\Debug\Store.exe.config
+C:\Users\Owner\source\repos\Store\bin\Debug\Store.exe
+C:\Users\Owner\source\repos\Store\bin\Debug\Store.pdb
+C:\Users\Owner\source\repos\Store\obj\Debug\Store.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Store\obj\Debug\Store.Properties.Resources.resources
+C:\Users\Owner\source\repos\Store\obj\Debug\Store.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\Store\obj\Debug\Store.exe
+C:\Users\Owner\source\repos\Store\obj\Debug\Store.pdb
+C:\Users\Owner\source\repos\Store\obj\Debug\Store.Store.resources
+C:\Users\Owner\source\repos\Store\obj\Debug\Store.csproj.CoreCompileInputs.cache
